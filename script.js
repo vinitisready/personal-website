@@ -89,7 +89,7 @@ const getChartOptions = () => {
         },
       },
     },
-    labels: ["Java", "php", "JavaScript"],
+    labels: ["Java", "Python", "JavaScript"],
     dataLabels: {
       enabled: true,
       style: {
